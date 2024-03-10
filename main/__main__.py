@@ -14,10 +14,9 @@ for name in files:
         patt = Path(a.name)
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
-
-#Don't be a thief 
+ 
 print("Successfully deployed!")
-print("By PiRa • pirabts")
+print("By @Pro_fessor_Bots")
 
 if __name__ == "__main__":
     bot.run_until_disconnected()
