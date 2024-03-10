@@ -2,7 +2,7 @@
   <b>Save restricted content Bot</b>
 </h1> 
 
-Contact: [Telegram](https://t.me/srcb_here)
+Contact: [Telegram](https://t.me/Pro_fessor_Bots)
 
 A stable telegram bot to get restricted messages with custom thumbnail support ,
 
@@ -62,7 +62,7 @@ Deploy your bot on `heroku`
 
 CLick Button
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Adreinbrody/SRCB_for-cpy1)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/AdityaDev3211/SRCB_for-cpy1)
 
 Changes to make
 add repo link in deploy button - readme file
