@@ -8,9 +8,9 @@
         "save restricted",
         "bot"
     ],
-    "repository": "https://github.com/Adreinbrody/SRCB_for-cpy1",
+    "repository": "https://github.com/AdityaDev3211/SRCB_for-cpy1",
     "website": "",
-    "success_url": "https://t.me/srcb_here",
+    "success_url": "https://t.me/Pro_fessor_Bots",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
